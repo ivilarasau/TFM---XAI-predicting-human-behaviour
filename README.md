@@ -1,4 +1,5 @@
-# UOC - TFM - Predicting human behaviour on PGGs using a game theoretical approach
+# UOC - TFM 
+# Predicting human behaviour on PGGs using a game theoretical approach
 
 Author: **Ignasi Vilarasau**
 Tutor: **Julià Vicens**
