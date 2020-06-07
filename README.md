@@ -1,4 +1,4 @@
-# UOC - TFM 
+# UOC - Data Science - TFM 
 # Predicting human behaviour in PGGs using a game theoretical approach
 
 Author: **Ignasi Vilarasau**
