@@ -26,7 +26,7 @@ The secondary goal is to apply to those supervised ML models XAI techniques (foc
 
 * **Data:** Datasets used on our analysis. Those datasets are from the experiments performed on the studied papers, [6], [8], [9], [10].
 
-* **ML_Models_Pipeline.ipynb:** Script used to create a first EDA approach on each of the different datasets used for the study [8],[9],[10],[11]. Later we apply unsupervised and supervised ML models to Pereda, M.,et Al. 2019. and Vicens, J., et, Al., 2019 to classify different kinds of individual behaviour in contributions. Finally, we use *eXplainable Artificial Intelligence* focusing on the *SHapley Additive exPlanations (SHAP)* to explain and better understand the output of the supervised machine learning models.
+* **EDA_ML_Models.ipynb:** Script used to create a first EDA approach on each of the different datasets used for the study [8],[9],[10],[11]. Later we apply unsupervised and supervised ML models to Pereda, M.,et Al. 2019. and Vicens, J., et, Al., 2019 to classify different kinds of individual behaviour in contributions. Finally, we use *eXplainable Artificial Intelligence* focusing on the *SHapley Additive exPlanations (SHAP)* to explain and better understand the output of the supervised machine learning models.
 
 ## Bibliography
 
