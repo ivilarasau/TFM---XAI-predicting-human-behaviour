@@ -26,13 +26,7 @@ The secondary goal is to apply to those supervised ML models XAI techniques (foc
 
 * **Data:** Datasets used on our analysis. Those datasets are from the experiments performed on the studied papers, [6], [8], [9], [10].
 
-* **First_Steps_EDA.ipynb:** Script used to create an EDA approach on each of the different datasets used for the study.
-
-* **ML_Models_Pipeline.ipynb:** Script used to apply unsupervised and supervised ML models first and then *eXplainable Artificial Intelligence* based on the *SHapley Additive exPlanations (SHAP)* to explain and better understand the output of the supervised machine learning models.
-
-## Conclusions
-
-
+* **ML_Models_Pipeline.ipynb:** Script used to create a first EDA approach on each of the different datasets used for the study [8],[9],[10],[11]. Later we apply unsupervised and supervised ML models to Pereda, M.,et Al. 2019. and Vicens, J., et, Al., 2019 to classify different kinds of individual behaviour in contributions. Finally, we use *eXplainable Artificial Intelligence* focusing on the *SHapley Additive exPlanations (SHAP)* to explain and better understand the output of the supervised machine learning models.
 
 ## Bibliography
 
@@ -44,6 +38,6 @@ The secondary goal is to apply to those supervised ML models XAI techniques (foc
 6. **Fraser, S., Nettle, D. 2019.** *Hunger affects social decisions in a Public Goods Game but not an Ultimatum Game.* PsyArXiv. October 2. doi:10.31234/osf.io/67abq.
 7. **Allen, J. 2018.** *The public goods game on multiplex networks.* Doctoral thesis, University of Surrey.
 8. **Dannenberg, A, et, Al., 2019.** *Voting on the threat of exclusion in a public goods experiment.* Exp Econ 23, 84–109. April 9. doi:10.1007/s10683-019-09609-y.
-9. **Pereda, M.,et al.2019.** *Large scale and information effects on cooperation in public good games.* Sci Rep 9, 1502. October 21. doi:10.1038/s41598-019-50964-w.
+9. **Pereda, M.,et Al. 2019.** *Large scale and information effects on cooperation in public good games.* Sci Rep 9, 1502. October 21. doi:10.1038/s41598-019-50964-w.
 10. **Vicens, J., et, Al., 2019.** *Resource heterogeneity leads to unjust effort distribution in climate change mitigation.* 13(10): e0204369. October 31. doi:10.1371/journal.pone.0204369.
 11. **Pereda, M., et, Al., 2019.** *Group size effects and critical mass in public goods games.* Sci Rep 9, 5503. April 2. doi:10.1038/s41598-019-41988-3.
