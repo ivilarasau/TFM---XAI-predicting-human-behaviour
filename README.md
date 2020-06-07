@@ -7,7 +7,7 @@ Tutor: **Julià Vicens**
 ## Motivation
 
 The interest of our proposal is based on two things. The first one, is the creation of supervised ML models that, with the maximum accuracy, classifies individuals into discrete behavioural types and it could be applied into simulating societies, policy-making scenario building, and even a variety of business applications. The second one, is based on the applicability of the *eXplainable Artificial Intelligence (XAI)* methods in the post-hoc analysis in order to understand our ML models' results with the maximum information about the features making those results as much human comprehensible as possible, [1]. And another interesting point is that to apply this XAI techniques we will use a solution concept of fairly distributing both gains and costs to several actors working in coalition, based on game theory.
-This new sort of techniques are in the trend because humans do not want to accept the models ”as-is” we want to know what is happening in their core, [4].
+This new sort of techniques are in the trend because humans do not want to accept the models ”as-is” we want to know what is happening in their core [4].
 
 ## Abstract
 Social interactions are present on every daily situation, and social situations that involve strategic behaviour are the keys of every social interaction. Those situations can be extrapolated to the *Evolutionary Game Theory* through *Public Good Games (PGG)*[1]. On this sense, studying the behaviour of individuals from the theoretical and experimental point of view can lead to an understanding of how individuals would react and act on those strategic situations and it could be very relevant in order to be able to anticipate the outcomes of every kind of concflict ot social situation.
